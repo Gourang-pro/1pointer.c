@@ -1,0 +1,2 @@
+# 1pointer.c
+pointer
